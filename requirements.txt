@@ -1,2 +1,32 @@
-requests
-beautifulsoup4
+# Core dependencies
+telethon>=1.24.0
+asyncio
+
+# Archive handling
+rarfile>=4.0
+zipfile36
+
+# Data processing
+pandas>=1.5.0
+
+# GUI (optional)
+tkinter  # Usually comes with Python
+
+# Telegram Bot API (optional)
+python-telegram-bot>=20.0
+
+# Additional utilities
+pathlib2
+typing-extensions
+dataclasses-json
+
+# Performance
+cachetools>=5.0.0
+functools32
+
+# CLI support
+argparse
+click>=8.0.0
+
+# Export formats
+openpyxl>=3.0.0  # For Excel export if needed
