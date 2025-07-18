@@ -85,6 +85,3 @@ pip install pandas openpyxl cachetools
 }
 ```
 
-...
-
-(تکمیل ترجمه در ادامه فایل خواهد بود)
